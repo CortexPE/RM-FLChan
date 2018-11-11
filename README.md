@@ -1,6 +1,8 @@
 # RM-FLChan
 FL Studio's FL Chan, now on Rainmeter
 
+***This project includes a [program written on AutoIt 3](https://github.com/CortexPE/RM-FLChan/blob/master/img/utils/split_spritesheet.exe) to split a raw spritesheet for use with FL Studio's Fruity Dance plugin into multiple horizontal spritesheets that can be used for this skin. [Source code](https://github.com/CortexPE/RM-FLChan/blob/master/img/utils/split_spritesheet.au3) is publicly available.***
+
 ## Disclaimer
 Original FL-Chan spritesheet was made by Uruido.
 Owned by Image-Line for their product FL Studio's Fruity Dance plugin.
