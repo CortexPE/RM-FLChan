@@ -1,7 +1,8 @@
 # RM-FLChan
 FL Studio's FL Chan, now on Rainmeter
 
-# Disclaimer
+<h2 style="box-shadow: inset 4px 0 0 #f9c513;">Disclaimer</h2>
+
 Original FL-Chan spritesheet was made by Uruido.
 Owned by Image-Line for their product FL Studio's Fruity Dance plugin.
 
